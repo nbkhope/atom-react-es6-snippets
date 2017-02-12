@@ -16,7 +16,7 @@ Type the snippet abbreviation and press **TAB**.
 | rconst       | Generates a constructor function |
 | rbm          | Bind method to this |
 |--------------|-------------|
-| rpd          | Define propTypes |
+| rpd          | **Define propTypes** |
 | rpstr        | PropTypes.string |
 | rpn          | PropTypes.number |
 | rpo          | PropTypes.object |
@@ -26,6 +26,6 @@ Type the snippet abbreviation and press **TAB**.
 | rpf          | PropTypes.func |
 | rps          | PropTypes.shape |
 
-> Add an additional "r" to the end of the PropType abbreviations above to make it a required property (adds .isRequired). For example, **rpbr** generates `PropTypes.bool.isRequired`
+> Hint: add an additional "r" to the end of the PropType abbreviations above to make it a required property (adds .isRequired). For example, **rpbr** generates `PropTypes.bool.isRequired`
 
-For more information about each snippet, see the [source file](snippet/React%20(ES6).cson).
+For more information about each snippet, see the [source file](snippets/React%20(ES6).cson).
